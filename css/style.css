@@ -1,4 +1,12 @@
-.img-div {
-    max-width: 70%;
-    height: 70%;
-}
+#img-div{
+    display: flex;
+    justify-content: center;
+  }
+img{
+    display: block;
+}  
+#image{
+  
+  max-width: 100%;
+  height: auto;
+} 
